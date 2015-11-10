@@ -1,5 +1,8 @@
 # c2thin
-
 ===
+入力画像に対して, 細線化処理を行い出力をする.
+![input][input_img]
+![output][output_img]
 
-入力された画像を細線化し, 出力をする.
+[input_img]: imgs/a.png
+[output_img]: imgs/a_thin.png
