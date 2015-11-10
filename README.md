@@ -9,9 +9,12 @@
 オプション等は現在(2015/11/10)ついていないため, ソース内の画像ファイル名を変更する.  
 `$ ./c2thin`
 
+### 入出力画像
 ![input][input_img]
 ![output][output_img]  
-technotype [technotype][reference_thin]
+
+### 参考文献
+1. technotype [technotype][reference_thin]
 
 [input_img]: imgs/a.png
 [output_img]: imgs/a_thin.png
