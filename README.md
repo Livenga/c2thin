@@ -10,8 +10,9 @@
 `$ ./c2thin`
 
 ### 入出力画像
-![input][input_img]
-![output][output_img]  
+|入力画像|出力画像|
+|:------:|:------:|
+|![input][input_img]|![output][output_img]|
 
 ### 参考文献
 1. technotype [technotype][reference_thin]
