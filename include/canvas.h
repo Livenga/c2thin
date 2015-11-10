@@ -17,10 +17,12 @@ extern int
 pnwrite(const char *path,
         canvas cv);
 
-/* src/canvas/cv_conv.c */
+/* src/canvas/cv_skelt.c */
 extern void
 cv2skelt(canvas *dest,
          const canvas src);
+
+/* src/canvas/cv_conv.c */
 extern void
 cv2bin(canvas *dest,
        const canvas src);
